@@ -1,8 +1,8 @@
-🚀 Project Name
+🚀 Indknow
 
 📖 Introduction
 
-Project Name is a modern full-stack web application developed using the latest web technologies to deliver a fast, responsive, and user-friendly experience. The application is built with **React 19**, **TypeScript**, and **TanStack Start**, providing a scalable architecture that supports efficient routing, component-based development, and improved maintainability. The project emphasizes clean code practices, modular design, and high performance while ensuring that the user interface remains visually appealing and accessible across desktops, tablets, and mobile devices.
+IndKnow is a modern full-stack web application developed using the latest web technologies to deliver a fast, responsive, and user-friendly experience. The application is built with React 19, TypeScript, and TanStack Start, providing a scalable architecture that supports efficient routing, component-based development, and improved maintainability. The project emphasizes clean code practices, modular design, and high performance while ensuring that the user interface remains visually appealing and accessible across desktops, tablets, and mobile devices.
 
 The application has been designed following industry-standard development practices to ensure reliability, flexibility, and future scalability. It incorporates reusable UI components, type-safe development, responsive layouts, and optimized rendering techniques to provide a seamless user experience. The project demonstrates the integration of modern frontend frameworks, development tools, and libraries that simplify application development while maintaining excellent code quality.
 
